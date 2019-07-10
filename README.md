@@ -1,0 +1,2 @@
+# ManchuAlphabet
+Sain no.
